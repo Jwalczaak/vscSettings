@@ -1,0 +1,10 @@
+{
+    "workbench.colorTheme": "Monokai Pro",
+    "files.autoSave": "onFocusChange",
+    "editor.formatOnSave": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.port": 0,
+    "liveServer.settings.CustomBrowser": "chrome",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "explorer.confirmDelete": false
+}
